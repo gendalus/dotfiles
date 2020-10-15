@@ -1,0 +1,9 @@
+alias zshconfig="vi ~/.zshrc"
+alias ohmyzsh="mate ~/.oh-my-zsh"
+alias dl='cd ~/Desktop/Download'
+alias ybest='youtube-dl -f best -o "~/movie-temp/%(title)s.%(ext)s" '
+alias ose='open /Applications/Utilities/AppleScript\ Editor.app'
+alias cse='$OSA "tell app $SE to quit"'
+alias icloud='~/Library/Mobile \Documents/'
+alias yeet='rm -rf'
+
